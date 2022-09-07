@@ -1,0 +1,10 @@
+XEnd,YEnd,T,WalksToEndCount,XVisit,YVisit,VisitsToXYVisitCount,VisitToXYVisitProbability
+0,-1,1,1,0,-1,1,1
+0,-1,1,1,0,0,1,1
+-1,0,1,1,-1,0,1,1
+-1,0,1,1,0,0,1,1
+0,0,1,1,0,0,1,1
+1,0,1,1,0,0,1,1
+1,0,1,1,1,0,1,1
+0,1,1,1,0,0,1,1
+0,1,1,1,0,1,1,1
